@@ -20,6 +20,7 @@ BALM has been published as a preprint on arXiv, and can be cited as:
 Additionally, Zenodo provides a unique, citable DOI for each version of a deposited dataset. The DOI for the current version of BALM (v2023.08.17) is 10.5281/zenodo.8253367, so an appropriate citation would be:
 
 ```
-Burbach, Sarah, & Briney, Bryan. (2023). Improving antibody language models with native pairing (v2023.08.17) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.8253367
+Burbach, Sarah, & Briney, Bryan. (2023). Improving antibody language models with native pairing (v2023.08.17) 
+[Data set]. Zenodo. https://doi.org/10.5281/zenodo.8253367
 ```
 
