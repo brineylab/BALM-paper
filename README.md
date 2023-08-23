@@ -4,7 +4,7 @@
 
 # Improving antibody language models with native pairing
 
-To determine whether and the extent to which training with natively paired antibody sequence data can improve antibody-specific language models (LMs), we trained two baseline antibody language model (BALM) variants: *BALM-paired*, which is trained using only natively paired training data, and *BALM-unpaied*, which is trained using the same antibody sequences but without pairing information. Additionally, we performed full fine-tuning of the state-of-the-art general protein LM ESM-2 using the same natively paired dataset used to train BALM-paired. The Jupyter notebooks in this repository contain all code necessary to re-train each of these models from scratch:
+To determine whether and the extent to which training with natively paired antibody sequence data can improve antibody-specific language models (**LMs**), we trained two baseline antibody language model (**BALM**) variants: *BALM-paired*, which is trained using only natively paired training data, and *BALM-unpaied*, which is trained using the same antibody sequences but without pairing information. Additionally, we performed full fine-tuning of the state-of-the-art general protein LM ESM-2 using the same natively paired dataset used to train BALM-paired. The Jupyter notebooks in this repository contain all code necessary to re-train each of these models from scratch:
 
 * [**BALM-paired**](BALM-paired.ipynb): downloads training data (if necessary) and trains BALM-paired.
 * [**BALM-unpaired**](BALM-unpaired.ipynb): downloads training data (if necessary) and trains BALM-unpaired.
