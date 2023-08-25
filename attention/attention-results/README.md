@@ -1,0 +1,1 @@
+This folder is intentionally empty. It is included as a location for users to save the attention csv files needed to extract and plot the cross-chain attention. 
