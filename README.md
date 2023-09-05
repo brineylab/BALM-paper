@@ -14,7 +14,7 @@ To determine whether and the extent to which training with natively paired antib
 Weights for each of the aforementioned models can be downloaded from [Zenodo](https://zenodo.org/record/8253367).
 
 ### how should I cite BALM?
-BALM has been published as a preprint on arXiv, and can be cited as:
+BALM has been published as a [preprint on arXiv](https://arxiv.org/abs/2308.14300), and can be cited as:
 
 ```
 Burbach SM, Briney B. Improving antibody language models with native pairing.
