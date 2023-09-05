@@ -21,7 +21,7 @@ Burbach SM, Briney B. Improving antibody language models with native pairing.
 arXiv [q-bio.BM]. 2023. Available: http://arxiv.org/abs/2308.14300
 ```
 
-Additionally, Zenodo provides a unique, citable DOI for each version of a deposited dataset. The DOI for the current version of BALM (v2023.08.17) is 10.5281/zenodo.8253367, so an appropriate citation would be:
+The current version of the BALM dataset (v2023.08.17) can be cited as:
 
 ```
 S Burbach & B Briney. (2023). Improving antibody language models with native pairing (v2023.08.17) 
