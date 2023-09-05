@@ -24,7 +24,7 @@ arXiv [q-bio.BM]. 2023. Available: http://arxiv.org/abs/2308.14300
 The current version of the BALM dataset (v2023.08.17) can be cited as:
 
 ```
-S Burbach & B Briney. (2023). Improving antibody language models with native pairing (v2023.08.17) 
+Burbach SM, Briney B. (2023). Improving antibody language models with native pairing (v2023.08.17) 
 [Data set]. Zenodo. https://doi.org/10.5281/zenodo.8253367
 ```
 
