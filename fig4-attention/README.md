@@ -1,0 +1,1 @@
+Notebooks are labeled by their corresponding panel in Figure 4 (cross-chain attention). Note that there are two notebooks for panel C (C1 and C2) that should be run in numerical order.
