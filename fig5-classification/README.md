@@ -1,0 +1,1 @@
+Classification code for the 'HD vs CoV' and 'HD vs Flu vs CoV' classifications is provided. 'HD vs CoV' code can easily be adapted for the 'Flu vs CoV' classification. Classification datasets can be downloaded from Zenodo.
