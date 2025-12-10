@@ -12,7 +12,7 @@ To determine whether and the extent to which training with natively paired antib
 * [**ESM-2 fine-tuning**](ESM2_fine-tuning.ipynb): downloads training data (if necessary) and performs full fine-tuning of ESM-2.
 
 ### pre-trained models
-Weights for each of the aforementioned models can be downloaded from [Zenodo](https://zenodo.org/records/10684811).
+Weights for each of the aforementioned models can be downloaded from [Zenodo](https://zenodo.org/records/10684811) or [Hugging Face](https://huggingface.co/collections/brineylab/balm-paper).
 
 ### how should I cite BALM?
 BALM has been published in [Patterns](https://www.cell.com/patterns/fulltext/S2666-3899(24)00075-8), and can be cited as:
